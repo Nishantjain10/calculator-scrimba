@@ -3,6 +3,8 @@ let num2 = 2
 document.getElementById("num1-el").textContent = num1
 document.getElementById("num2-el").textContent = num2
 
+//Made with Scrimba
+
 let sumEl = document.getElementById("sum-el")
 
 function add() {
